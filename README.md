@@ -25,7 +25,7 @@ If restarting devices does not solve the networking issue. We have to clear & re
 After using systems for several times some caches, temporary files, prefetch files and recent files gets created in different locations which slow downs computer speed. Before this we used to delete those files one by one which is too time consuming. By this function we can delete all those files in just one click. 
 
 # Install
-Nothing extra things needed. Just open the software that's it.
+No extra things needed. Just open the software that's it.
 
 # Note
 You should open this software as an administrator to work properly. This software has some functions that needs administrator privileges i.e. to restart network devices, to delete temporary files & prefetch files etc.
